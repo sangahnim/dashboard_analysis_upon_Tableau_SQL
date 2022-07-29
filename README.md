@@ -1,9 +1,11 @@
 # **Tableau_Project**
 
 ## [**SuperStore(Tableau Sample)**](https://public.tableau.com/app/profile/sangah.lee7642/viz/superstore_tableau_sample/1?publish=yes)
+<img width="631" alt="스크린샷 2022-07-29 오후 5 54 38" src="https://user-images.githubusercontent.com/86824895/181723777-844aedd0-0bc6-4b4c-ad2a-11a04432b94b.png">
 
 ## [**Shopping(Kaggle Sample)**](https://public.tableau.com/app/profile/sangah.lee7642/viz/shoppingdata_practice/1_1)
 
+<img width="675" alt="스크린샷 2022-07-29 오후 5 54 02" src="https://user-images.githubusercontent.com/86824895/181723807-45ceb189-6583-49e3-8c43-4382a53cae06.png">
 
 ### 캐글 데이터를 다운받아 Dbeaver에서 사용한 구문들
 
